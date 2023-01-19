@@ -23,7 +23,7 @@ print(norm_of_matrix)
 
 
 # 2-Norm of a Matrix
-'''Python
+```Python
 Program to find 2-norm of a matrix.
 Developed by: B.Bejin
 RegisterNumber:22001908 
